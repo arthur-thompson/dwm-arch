@@ -1,0 +1,6 @@
+#!/bin/sh
+
+$HOME/.fehbg &
+slstatus &
+sxhkd &
+exec dwm
