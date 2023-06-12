@@ -1,4 +1,6 @@
 # dwm-arch
+Unpatched dwm but with custom keybindings and colors, st has scrollback and text reflow.
+
 suckless build deps: base-devel libx11 libxft libxinerama freetype2 fontconfig
 
 dependencies: sxhkd terminus-font feh
